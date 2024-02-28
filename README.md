@@ -2,6 +2,11 @@
 
 This project is a test case using Django and Django REST Framework (DRF). The API enables users to create, read, update, and delete career entries.
 
+### Online URL for CURL
+```url
+https://mrcadu7.pythonanywhere.com/careers/
+```
+
 ## Running Locally
 
 ### 1. Install Dependencies and Environment Variables Configuration
